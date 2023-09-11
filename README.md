@@ -23,6 +23,6 @@ Networking is another valuable part of the program, enabling participants to con
 
 **2]** We use powerful Data Analytics tools to help our clients solve their business problems. Learning to master Power BI is an excellent first step. You will be more productive by empowering you to identify patterns, risks, and opportunities in the data. You can gain concrete, actionable insights by being clear about the value of data.
 
-![image](https://github.com/Yash22222/PwC-Power-BI-Virtual-Case-Experience/assets/97459174/1364af28-148d-4311-b46e-b3f12584ac01)
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/PricewaterhouseCoopers_Logo.svg/1200px-PricewaterhouseCoopers_Logo.svg.png
 
 
