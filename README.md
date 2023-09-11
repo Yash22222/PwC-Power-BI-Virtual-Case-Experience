@@ -1,5 +1,9 @@
 # **PwC Switzerland PowerBI Virtual Case Experience**
 
+<a href="https://www.theforage.com/virtual-internships/prototype/a87GpgE6tiku7q3gu/PwC-Power-BI-Virtual-Case-Experience"><b>REGISTER HERE</b></a>
+
+
+
 **ABOUT THIS VIRTUAL CASE EXPERIENCE**
 
 The Power BI PwC Virtual Case Experience is an engaging and educational program designed to give participants hands-on exposure to Power BI, a leading business intelligence and data visualization tool, in the context of consulting on In PwC. These experiences typically include extensive training on Power BI basics, data imports, transformations, report creation, and advanced analytics They are challenged to apply their Power BI skills with real-world business cases use it to analyze data, and create interactive reports. Able to create dashboards and provide data-driven recommendations.
@@ -19,5 +23,6 @@ Networking is another valuable part of the program, enabling participants to con
 
 **2]** We use powerful Data Analytics tools to help our clients solve their business problems. Learning to master Power BI is an excellent first step. You will be more productive by empowering you to identify patterns, risks, and opportunities in the data. You can gain concrete, actionable insights by being clear about the value of data.
 
+![image](https://github.com/Yash22222/PwC-Power-BI-Virtual-Case-Experience/assets/97459174/1364af28-148d-4311-b46e-b3f12584ac01)
 
 
