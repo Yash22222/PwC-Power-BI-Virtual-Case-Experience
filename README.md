@@ -1,6 +1,6 @@
 # **PwC Switzerland PowerBI Virtual Case Experience**
 
-#**ABOUT THIS VIRTUAL CASE EXPERIENCE**
+**ABOUT THIS VIRTUAL CASE EXPERIENCE**
 
 The Power BI PwC Virtual Case Experience is an engaging and educational program designed to give participants hands-on exposure to Power BI, a leading business intelligence and data visualization tool, in the context of consulting on In PwC. These experiences typically include extensive training on Power BI basics, data imports, transformations, report creation, and advanced analytics They are challenged to apply their Power BI skills with real-world business cases use it to analyze data, and create interactive reports. Able to create dashboards and provide data-driven recommendations.
 
@@ -14,11 +14,10 @@ Networking is another valuable part of the program, enabling participants to con
 
 **Why join this Job Simulation?**
 
-**-> 1]** Navigating Excel sheets just don’t fit a digital Jedi. PwC’s Digital Upskilling Academy in Switzerland helps people go from zero to digital heroes. PwC is upskilling 284,000 people because the right digital skills make us more agile, adaptable, and fit for the future.
+**->** 
+**1]** Navigating Excel sheets just don’t fit a digital Jedi. PwC’s Digital Upskilling Academy in Switzerland helps people go from zero to digital heroes. PwC is upskilling 284,000 people because the right digital skills make us more agile, adaptable, and fit for the future.
 
-
-
-**2]** We use powerful Data Analytics tools to help our clients solve their business problems. Learning to master Power BI is an excellent first step. You will be more productive by empowering you to identify patterns, risks and opportunities in the data. You can gain concrete, actionable insights by being clear about the value of data.
+**2]** We use powerful Data Analytics tools to help our clients solve their business problems. Learning to master Power BI is an excellent first step. You will be more productive by empowering you to identify patterns, risks, and opportunities in the data. You can gain concrete, actionable insights by being clear about the value of data.
 
 
 
